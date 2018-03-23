@@ -14,7 +14,7 @@ MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jonro\
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jonro\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\a6c5a5ce191f6dfbcdeab10085442c53\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jonro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6d3b68006e49bf49479b12aed8238b95\AndroidManifest.xml:17:1-24:12
 	package
-		ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:19:5-47
+		ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:19:5-39
 	xmlns:android
 		ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:18:11-69
 uses-permission#android.permission.CAMERA
@@ -39,12 +39,12 @@ ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\A
 		ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:26:18-44
 	android:theme
 		ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:29:9-45
-activity#com.example.android.camera2basic.CameraActivity
+activity#com.fitc.reversingcamera.CameraActivity
 ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:31:9-37:20
 	android:label
 		ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:32:19-51
 	android:name
-		ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:31:19-49
+		ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:31:19-73
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\jonro\AndroidStudioProjects\CarCamera\Application\src\main\AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
